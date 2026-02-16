@@ -1,6 +1,6 @@
 ##🕒 Digital Clock — Python Mini Project
 
-##📌 Overview
+##📌 Overview:
 
 The Digital Clock is a simple desktop application built using Python and the Tkinter GUI library.
 It displays the current system time in real-time and updates automatically every second.
@@ -9,7 +9,7 @@ This project is designed for beginners to understand GUI programming, event loop
 
 ---
 
-##🎯 Objectives
+##🎯 Objectives:
 
 - Learn basic GUI development using Tkinter
 - Understand real-time updates using "after()" method
@@ -18,7 +18,7 @@ This project is designed for beginners to understand GUI programming, event loop
 
 ---
 
-##🛠️ Technologies Used
+##🛠️ Technologies Used:
 
 - Python 3
 - Tkinter — GUI Library (built-in)
@@ -26,7 +26,7 @@ This project is designed for beginners to understand GUI programming, event loop
 
 ---
 
-##📂 Project Structure
+##📂 Project Structure:
 
 digital-clock/
 │── digital_clock.py
@@ -34,7 +34,7 @@ digital-clock/
 
 ---
 
-##⚙️ How It Works
+##⚙️ How It Works:
 
 1. The Tkinter window is created.
 2. The program fetches the system time using "strftime()".
@@ -43,7 +43,7 @@ digital-clock/
 
 ---
 
-###▶️ How to Run the Project
+###▶️ How to Run the Project:
 
 Step 1 — Install Python
 
@@ -64,7 +64,7 @@ python digital_clock.py
 
 ---
 
-##💡 Features
+##💡 Features:
 
 - Real-time digital clock
 - Auto refresh every second
@@ -74,7 +74,7 @@ python digital_clock.py
 
 ---
 
-##🧠 Concepts Covered
+##🧠 Concepts Covered:
 
 - GUI programming
 - Event driven programming
@@ -83,7 +83,7 @@ python digital_clock.py
 
 ---
 
-##📷 Expected Output
+##📷 Expected Output:
 
 A window opens showing current time in format:
 
@@ -95,7 +95,7 @@ Example:
 
 ---
 
-##🔮 Future Enhancements
+##🔮 Future Enhancements:
 
 - Add current date display
 - Add alarm functionality
@@ -110,13 +110,13 @@ Nikita Jadhav
 
 ----
 
-##🤝 Contribution
+##🤝 Contribution:
 
 This project is open for improvements.
 Feel free to fork and enhance it.
 
 ---
 
-##📄 License
+##📄 License:
 
 This project is for educational purposes and free to use.
