@@ -1,4 +1,4 @@
-##🕒 Digital Clock — Python Mini Project
+##🕒 Digital Clock — Python Mini Project:
 
 ##📌 Overview:
 
