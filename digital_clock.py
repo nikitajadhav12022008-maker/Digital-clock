@@ -1,5 +1,7 @@
 #python based a digital clock:
+importing tkinter
 import tkinter as tk
+importing strftime
 from time import strftime
 
 # Create main window
@@ -26,6 +28,5 @@ label = tk.Label(
 label.pack(anchor="center")
 
 update_time()
-
-
 root.mainloop()
+
