@@ -1,6 +1,6 @@
-##🕒 Digital Clock — Python Mini Project:
+## 🕒 Digital Clock — Python Mini Project:
 
-##📌 Overview:
+## 📌 Overview:
 
 The Digital Clock is a simple desktop application built using Python and the Tkinter GUI library.
 It displays the current system time in real-time and updates automatically every second.
