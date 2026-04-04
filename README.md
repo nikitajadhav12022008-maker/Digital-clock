@@ -90,6 +90,7 @@ python digital_clock.py
 
 
 ## 📷 Expected Output:
+
 - A window opens showing current time in format:
 HH : MM : SS AM/PM
 - Example:
@@ -100,7 +101,8 @@ HH : MM : SS AM/PM
 
 
 ##👩‍💻Author:
-Nikita Jadhav
+
+- Nikita Jadhav
 
 ----
 
