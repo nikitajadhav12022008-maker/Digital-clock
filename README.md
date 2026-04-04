@@ -9,7 +9,7 @@ This project is designed for beginners to understand GUI programming, event loop
 
 ---
 
-##🎯 Objectives:
+## 🎯 Objectives:
 
 - Learn basic GUI development using Tkinter
 - Understand real-time updates using "after()" method
