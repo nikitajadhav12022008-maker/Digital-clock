@@ -18,7 +18,7 @@ This project is designed for beginners to understand GUI programming, event loop
 
 ---
 
-##🛠️ Technologies Used:
+## 🛠️ Technologies Used:
 
 - Python 3
 - Tkinter — GUI Library (built-in)
