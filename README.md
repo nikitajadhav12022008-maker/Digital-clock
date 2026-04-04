@@ -72,23 +72,18 @@ This project is designed for beginners to understand GUI programming, event loop
 
 ---
 
-###▶️ How to Run the Project:
+## ▶️ How to Run the Project:
 
-Step 1 — Install Python
-
+- Step 1 — Install Python
 Make sure Python 3 is installed
 Check using:
-
 python --version
 
-Step 2 — Download Project
-
+- Step 2 — Download Project
 Clone or download the repository
 
-Step 3 — Run Program
-
+- Step 3 — Run Program
 Navigate to project folder and run:
-
 python digital_clock.py
 
 ---
