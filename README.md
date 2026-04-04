@@ -43,6 +43,16 @@ This project is designed for beginners to understand GUI programming, event loop
 
 ---
 
+## 💡 Features:
+
+- Real-time digital clock
+- Auto refresh every second
+- Simple and lightweight
+- No external libraries required
+- Beginner friendly project
+
+---
+
 ###▶️ How to Run the Project:
 
 Step 1 — Install Python
@@ -64,15 +74,7 @@ python digital_clock.py
 
 ---
 
-##💡 Features:
 
-- Real-time digital clock
-- Auto refresh every second
-- Simple and lightweight
-- No external libraries required
-- Beginner friendly project
-
----
 
 ##🧠 Concepts Covered:
 
