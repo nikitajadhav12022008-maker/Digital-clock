@@ -100,19 +100,19 @@ HH : MM : SS AM/PM
 
 
 
-##👩‍💻Author:
+## 👩‍💻Author:
 
 - Nikita Jadhav
 
 ----
 
-##🤝 Contribution:
+## 🤝 Contribution:
 
-This project is open for improvements.
-Feel free to fork and enhance it.
+- This project is open for improvements.
+- Feel free to fork and enhance it.
 
 ---
 
-##📄 License:
+## 📄 License:
 
-This project is for educational purposes and free to use.
+- This project is for educational purposes and free to use.
