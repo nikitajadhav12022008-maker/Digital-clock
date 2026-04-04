@@ -62,6 +62,16 @@ This project is designed for beginners to understand GUI programming, event loop
 
 ---
 
+## 🔮 Future Enhancements:
+
+- Add current date display
+- Add alarm functionality
+- Add theme switch (Dark / Light mode)
+- Add 12/24 hour toggle
+- Add stopwatch feature
+
+---
+
 ###▶️ How to Run the Project:
 
 Step 1 — Install Python
@@ -99,15 +109,7 @@ Example:
 
 ---
 
-##🔮 Future Enhancements:
 
-- Add current date display
-- Add alarm functionality
-- Add theme switch (Dark / Light mode)
-- Add 12/24 hour toggle
-- Add stopwatch feature
-
----
 
 ##👩‍💻Author:
 Nikita Jadhav
