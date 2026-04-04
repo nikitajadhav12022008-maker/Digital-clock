@@ -26,7 +26,7 @@ This project is designed for beginners to understand GUI programming, event loop
 
 ---
 
-##📂 Project Structure:
+## 📂 Project Structure:
 
 digital-clock/
 │── digital_clock.py
