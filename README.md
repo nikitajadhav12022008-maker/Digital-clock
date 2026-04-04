@@ -89,17 +89,10 @@ python digital_clock.py
 ---
 
 
-
-
-
-##📷 Expected Output:
-
-A window opens showing current time in format:
-
+## 📷 Expected Output:
+- A window opens showing current time in format:
 HH : MM : SS AM/PM
-
-Example:
-
+- Example:
 10 : 45 : 12 PM
 
 ---
