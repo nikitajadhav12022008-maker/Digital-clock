@@ -34,7 +34,7 @@ This project is designed for beginners to understand GUI programming, event loop
 
 ---
 
-##⚙️ How It Works:
+## ⚙️ How It Works:
 
 1. The Tkinter window is created.
 2. The program fetches the system time using "strftime()".
