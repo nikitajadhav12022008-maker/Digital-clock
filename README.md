@@ -53,6 +53,15 @@ This project is designed for beginners to understand GUI programming, event loop
 
 ---
 
+## 🧠 Concepts Covered:
+
+- GUI programming
+- Event driven programming
+- Infinite loop handling using "after()"
+- Working with system time
+
+---
+
 ###▶️ How to Run the Project:
 
 Step 1 — Install Python
@@ -76,14 +85,7 @@ python digital_clock.py
 
 
 
-##🧠 Concepts Covered:
 
-- GUI programming
-- Event driven programming
-- Infinite loop handling using "after()"
-- Working with system time
-
----
 
 ##📷 Expected Output:
 
